@@ -29,7 +29,7 @@ output = []
 def listclasses():
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
     print("List of classes:")
-    print("  0 SCP 173\n  1 Class D\n  2 Spectator\n  3 SCP 106\n  4 Nine tailed fox scientist\n  5 SCP 049\n  6 Scientist\n  7 SCP 079\n  8 Chaos Insurgency\n  9 SCP 457 (Warning: As far as I know, this SCP doesnt work yet)\n 10 SCP 049-2\n 11 Nine Tailed Fox lieutenant\n 12 Nine Tailed Fox Commander\n 13 Nine Tailed Fox Guard")
+    print("  0 SCP 173\n  1 Class D\n  2 Spectator\n  3 SCP 106\n  4 Nine tailed fox scientist\n  5 SCP 049\n  6 Scientist\n  7 SCP 079\n  8 Chaos Insurgency\n  9 SCP 096\n 10 SCP 049-2\n 11 Nine Tailed Fox lieutenant\n 12 Nine Tailed Fox Commander\n 13 Nine Tailed Fox Guard")
     print("\n\n\n\n\n\n\n\n")
 
 def firstclass():
@@ -75,7 +75,7 @@ outputprint()
 
 print("\n\n\n\n\n\n\n\n")
 print("usage:")
-print("in your config add another entry \n\ne.g.\n SCP914_rough_change_class = \n\nthen paste in you ouput at the end of the equal sign")
+print("in your config add another entry \n\ne.g.\n SCP914_rough_change_class = \n\nthen paste in your ouput at the end of the equal sign")
 print("\ne.g.\n SCP914_rough_change_class = " ,end="")
 outputprint()
 print("\n\n\n\n")
