@@ -17,7 +17,7 @@ classes[5] = "SCP 049"
 classes[6] = "Scientist"
 classes[7] = "SCP 079"
 classes[8] = "Chaos Insurgency"
-classes[9] = "SCP 457 (Warning: As far as I know, this SCP doesnt work yet)"
+classes[9] = "SCP 096"
 classes[10] = "SCP 049-2"
 classes[11] = "Nine Tailed Fox lieutenant"
 classes[12] = "Nine Tailed Fox Commander"
@@ -29,7 +29,7 @@ output = []
 def listclasses():
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
     print("List of classes:")
-    print("  0 SCP 173\n  1 Class D\n  2 Spectator\n  3 SCP 106\n  4 Nine tailed fox scientist\n  5 SCP  49\n  6 Scientist\n  7 SCP  79\n  8 Chaos Insurgency\n  9 SCP 457 (Warning: As far as I know, this SCP doesnt work yet)\n 10 SCP 049-2\n 11 Nine Tailed Fox lieutenant\n 12 Nine Tailed Fox Commander\n 13 Nine Tailed Fox Guard")
+    print("  0 SCP 173\n  1 Class D\n  2 Spectator\n  3 SCP 106\n  4 Nine tailed fox scientist\n  5 SCP 049\n  6 Scientist\n  7 SCP 079\n  8 Chaos Insurgency\n  9 SCP 457 (Warning: As far as I know, this SCP doesnt work yet)\n 10 SCP 049-2\n 11 Nine Tailed Fox lieutenant\n 12 Nine Tailed Fox Commander\n 13 Nine Tailed Fox Guard")
     print("\n\n\n\n\n\n\n\n")
 
 def firstclass():
@@ -97,4 +97,5 @@ outputprint()
 print("SCP914_very_fine_change_class = ", end="")
 outputprint()
 
+end = input()
 
